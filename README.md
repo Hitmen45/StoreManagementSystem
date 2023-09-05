@@ -7,74 +7,83 @@ MEIJER - STORE MANAGEMENT SYSTEM
 User Interface Overview  
   
 Home Page====>>>>
-![Screenshot 2023-05-22 190829](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/f3c47089-f25a-4049-9e60-ddd96a7c1760)
+
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/6cff3b48-e372-445f-bf14-c78736fb591a)
+
 
   
    
 View Table Page ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/26fb7df8-122d-43b9-88b7-705bb3179592)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/05565357-0a70-40a2-818b-d896b612d448)
+
 
      
 Table Data of selected relation  ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/f25aee12-6a8e-44ea-b83f-de7a12fc7e4c)
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/d0fa09bb-0b12-41ae-b005-4fe99f8a9530)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/4f6304cd-8a5a-4779-96de-8c7158999e5d)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/78c74a87-10df-45ea-924c-63412dacf4e2)
 
 
 
 Modification page for tables   ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/5676ec18-dfad-4b0a-ac6b-849432dbc86f)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/6abe75e3-5695-4fc7-bcc5-cd892fea5309)
+
 
    
 Modal to update Product Category   ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/dbeb7871-ee87-4c50-97c8-b52d4fc521ba)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/785dff3c-d801-4330-ba1a-d9a7ff7ff2fa)
 
   
    
 Result after Update   ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/58748e13-840f-4abf-b7f6-52f546237668)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/4ddb8e4f-13bd-465b-b03e-9ffaffbcb0c3)
 
-   
+
   
 Modal for Expenditure Deletion   ====>>>>
 
-   ![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/828cee9e-c206-4ef5-9a46-a120ad7c6f66)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/8d0dd22a-6bd5-420a-b80a-34019eb04a91)
+
 
   	  
 Table view after Delete   ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/dd40d59a-0bd5-4524-82e8-a90d063c9d09)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/f4c8300e-56f0-471b-afe2-0ef54342d8aa)
+
 
    
 Modal for Customer Phone Insertion with incorrect input check   ====>>>>
-   
- ![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/3581dd7f-a4bd-458e-a707-3cc6c8910736)
+
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/733739c3-685f-4df9-9f30-f7de32ecd5ab)
+
 
 
 Modal for Customer Phone Insertion   ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/e5c8338d-9e1f-41f0-8dde-9fbba7465a05)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/a120f424-c3ae-4c66-8abf-d18ffaf64cf5)
 
 
    
 View of table after insertion   ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/46ec2fd1-4325-4cdb-8252-87eeeca086a8)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/0a7a67f6-e66c-4f41-8d69-c52aa95329a2)
 
    
   	  
 Business goals page   ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/9f4c3851-3623-4818-b867-fb1bf0f8df17)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/133e8fb3-5249-4ee7-a80d-701a9cb170e3)
+
 
    
 Modals for parameter selection for report generation and their Results   ====>>>>
 
-![image](https://github.com/Shashwat16Shekhar/SMS/assets/42942896/598f2b61-7c8c-4c64-b5dc-e2f89d8a363d)
+![image](https://github.com/Hitmen45/StoreManagementSystem/assets/84061464/82aac209-acd3-4b30-b6d5-22d8b50fcca5)
+
 
    
   
